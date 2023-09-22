@@ -1,0 +1,51 @@
+.navbar{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgrey;
+}
+
+.head{
+    text-decoration: none;
+    color: black;
+}
+
+.sb{
+    padding: auto;
+    display: flex;
+    align-items: center;
+}
+
+.sb input{
+    height: 2.5em;
+    border: 1px;
+    border-radius: 5px 0px 0px 5px;
+    outline: none;  
+}
+
+.sb button{
+    height: 2.62em;
+    border: 1px;
+    border-radius: 0px 5px 5px 0px;
+    outline: none;
+}
+
+.li{
+    display: flex;
+}
+
+.li ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.chi{
+    text-decoration: none;
+    color: black;
+}
+
+
+
